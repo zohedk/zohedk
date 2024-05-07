@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohedk&label=Profile%20views&color=0e75b6&style=flat" alt="zohedk" /> </p>
 
-- 🌱 I’m currently learning **Fullstack Developement**
 
 - 👨‍💻 All of my projects are available at [https://zohedcoder.netlify.app/](https://zohedcoder.netlify.app/)
 
